@@ -1,4 +1,5 @@
 import { CodeIcon } from "@heroicons/react/solid";
+// ^ using the above library inorder to be able to write some SVG icons as React components.
 import React from "react";
 import { projects } from "../data";
 
